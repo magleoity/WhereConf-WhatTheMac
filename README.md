@@ -44,6 +44,6 @@ The NodeName is the name of the access point that found the packet. We will be p
 A note about privacy
 --------------------
 
-Yeah this is a bit creepy. We tried to make it difficult to identify individual devices by salting and hashing the MAC addresses. We will provide a webservice to look up your MAC address in teh data. 
+Yeah this is a bit creepy. We tried to make it difficult to identify individual devices by salting and hashing the MAC addresses. We will provide a webservice to look up your MAC address in the data. 
 
 Additionally, we are not decrypting any data. Most of this information appears to come from devices that are sending broadcast packets to find WiFi networks that they have joined in the past.
