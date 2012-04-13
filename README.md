@@ -10,7 +10,9 @@ Getting the Data
 
 The data is on an S3 bucket, and is available to the public. You can download it with any S3 tool, or create EMR jobs that use the data as an input.
 
-The bucket will be made available after the conference
+The data is in bunch of files here: s3://data.controlgroup.com/wtm/where2012/
+
+The files are gzipped, so keep that in mind when you work with them. Enjoy!
 
 The Data Format
 ---------------
